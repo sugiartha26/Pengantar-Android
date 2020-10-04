@@ -18,7 +18,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         //Panggil Variabel Berdasarkan id
-        //Test
+        //Test 123
         TextNama=(EditText)findViewById(R.id.TxtNama);
         Hasil=(TextView)findViewById(R.id.Label2);
     }
